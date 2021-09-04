@@ -6,7 +6,7 @@ layout: page
 
 <p>I'm an <a href="https://www.microsoft.com/en-us/research/people/edwardhu/">AI researcher at Microsoft</a> working on the large-scale deployment of GPT-3, principled approaches to large model training, and theories of infinitely wide neural networks.</p>
 
-<p>I spent a year as an <a href="https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/">AI resident</a> at Microsoft Research, after graduating with a Bachelor of Science in Computer Science and Cognitive Science from Johns Hopkins University. While at JHU, I worked at the <a href="https://www.clsp.jhu.edu/">Center for Language and Speech Processing</a> and was advised by <a href="https://www.cs.jhu.edu/~vandurme/">Ben Van Durme</a>.</p>
+<p>I spent a year as an <a href="https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/">AI resident</a> at Microsoft Research, after graduating with a Bachelor of Science in Computer Science and Cognitive Science from Johns Hopkins University. While at JHU, I worked for the <a href="https://www.clsp.jhu.edu/">Center for Language and Speech Processing</a> and was advised by <a href="https://www.cs.jhu.edu/~vandurme/">Ben Van Durme</a>.</p>
 
 <h2>Some Publications</h2>
 
@@ -22,4 +22,12 @@ layout: page
 	Improved Image Wasserstein Attacks and Defenses<br>
 	<i>Best Paper at ICLR Trustworthy ML Workshop 2020</i><br>
 	[<a href="https://arxiv.org/abs/2004.12478">Paper</a> | <a href="https://github.com/edwardjhu/improved_wasserstein">Code</a>]<br>
+	<br>
+	Randomized smoothing of all shapes and sizes<br>
+	<i>ICML 2020</i><br>
+	[<a href="https://arxiv.org/abs/2002.08118">Paper</a> | <a href="https://github.com/tonyduan/rs4a">Code</a>]<br>
+	<br>
+	Improved Lexically Constrained Decoding for Translation and Monolingual Rewriting<br>
+	<i>NAACL 2019</i><br>
+	[<a href="https://aclanthology.org/N19-1090.pdf">Paper</a> | <a href="https://nlp.jhu.edu/parabank/">Dataset</a>]<br>
 </ul>
