@@ -6,7 +6,7 @@ layout: page
 
 <p>I'm an <a href="https://www.microsoft.com/en-us/research/people/edwardhu/">AI researcher at Microsoft</a> working on the large-scale deployment of GPT-3, principled approaches to large model training, and theories of infinitely wide neural networks.</p>
 
-<p>I spent a year as an <a href="https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/">AI resident</a> at Microsoft Research, after graduating with a Bachelor of Science in Computer Science and Cognitive Science from Johns Hopkins University. While at JHU, I worked for the <a href="https://www.clsp.jhu.edu/">Center for Language and Speech Processing</a> and was advised by <a href="https://www.cs.jhu.edu/~vandurme/">Ben Van Durme</a>.</p>
+<p>I spent a year as an <a href="https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/">AI resident</a> at Microsoft Research, after graduating with a BSc in Computer Science and Cognitive Science from Johns Hopkins University. While at JHU, I worked for the <a href="https://www.clsp.jhu.edu/">Center for Language and Speech Processing</a> and was advised by <a href="https://www.cs.jhu.edu/~vandurme/">Ben Van Durme</a>.</p>
 
 <h2>Some Publications</h2>
 
