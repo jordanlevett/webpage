@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+![Profile Image]({% if site.external-image %}{{ site.picture_hd }}{% else %}{{ site.url }}/{{ site.picture_hd }}{% endif %})
 
 <p>I'm an <a href="https://www.microsoft.com/en-us/research/people/edwardhu/">AI researcher at Microsoft</a> working on the large-scale deployment of GPT-3, principled approaches to the training of large deep learning model, and theories of infinitely wide neural networks. I'm broadly interested in machine learning and natural language processing.</p>
 
