@@ -3,7 +3,7 @@ name: Edward Hu
 bio: AI Researcher at Microsoft working on GPT-3 and infinite-width neural networks.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Edward Hu's personal website
 
 # if it's an external image, update below for true
 # better with square images
@@ -96,7 +96,7 @@ show-tags: true
 related: false
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+post-advance-links: [] #[blog]
 
 # show author block at the end of a post ?
 show-author: false
@@ -117,7 +117,6 @@ defaults:
 plugins:
   - jekyll-seo-tag
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-admin
   - jekyll-paginate-v2
