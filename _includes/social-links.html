@@ -23,12 +23,6 @@
         </a>
     {% endif %}
 
-    {% if site.gscholar %}
-        <a class="link" data-title="scholar.google.com/citations?user={{ site.gscholar }}" href="scholar.google.com/citations?user={{ site.gscholar }}" target="_blank">
-            <svg class="icon icon-google"><use xlink:href="#icon-google"></use></svg>
-        </a>
-    {% endif %}
-
     {% if site.pinterest %}
         <a class="link" data-title="pinterest.com/{{ site.pinterest }}" href="https://pinterest.com/{{ site.pinterest }}" target="_blank">
             <svg class="icon icon-pinterest"><use xlink:href="#icon-pinterest"></use></svg>
@@ -104,6 +98,12 @@
     {% if site.lanyrd %}
         <a class="link" data-title="lanyrd.com/{{ site.lanyrd }}" href="https://lanyrd.com/{{ site.lanyrd }}" target="_blank">
             <svg class="icon icon-microphone"><use xlink:href="#icon-microphone"></use></svg>
+        </a>
+    {% endif %}
+
+    {% if site.gscholar %}
+        <a class="link" data-title="Google Scholar" href="https://scholar.google.com/citations?user={{ site.gscholar }}" target="_blank">
+            <svg class="icon icon-google"><use xlink:href="#icon-google"></use></svg>
         </a>
     {% endif %}
 
