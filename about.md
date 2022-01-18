@@ -4,7 +4,9 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture_hd }}{% else %}{{ site.url }}/{{ site.picture_hd }}{% endif %})
 
-<p>I'm an <a href="https://www.microsoft.com/en-us/research/people/edwardhu/">AI researcher at Microsoft</a> working on the large-scale deployment of GPT-3, principled approaches to the training of large deep learning model, and theories of infinitely wide neural networks. I'm broadly interested in machine learning and natural language processing.</p>
+<p>I started in Jan 2022 as a PhD student at Mila, where I study deep learning under the supervision of <a href="https://yoshuabengio.org/">Yoshua Bengio</a>.</p>
+
+<p>Before that, I was an AI researcher at Microsoft working on the large-scale deployment of GPT-3, principled approaches to the training of large deep learning model, and theories of infinitely wide neural networks. I'm broadly interested in machine learning and natural language processing.</p>
 
 <p>I spent a year as an <a href="https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/">AI resident</a> at Microsoft Research, after graduating with a BSc in Computer Science and Cognitive Science from Johns Hopkins University. While at JHU, I worked for the <a href="https://www.clsp.jhu.edu/">Center for Language and Speech Processing</a> and was advised by <a href="https://www.cs.jhu.edu/~vandurme/">Ben Van Durme</a>.</p>
 

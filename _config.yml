@@ -1,6 +1,6 @@
 # main text of home
 name: Edward Hu
-bio: AI Researcher at Microsoft working on GPT-3 and infinite-width neural networks.
+bio: Deep Learning PhD Student at Mila advised by Yoshua Bengio
 
 # twitter summary info
 description: Edward Hu is working on artificial intelligence
@@ -57,7 +57,7 @@ gscholar: 2eADy_8AAAAJ
 authors:
   johndoe:
     name: Edward Hu
-    bio: AI Researcher at Microsoft
+    bio: PhD Student at Mila
     external-image: false
     picture: assets/images/profile_422.jpg
     twitter: edwardjhu
