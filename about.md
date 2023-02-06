@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture_hd }}{% else %}{{ site.url }}/{{ site.picture_hd }}{% endif %})
 
-<p>I started in Jan 2022 as a PhD student at Mila, where I study deep learning under the supervision of <a href="https://yoshuabengio.org/">Yoshua Bengio</a>.</p>
+<p>I started in Jan 2022 as a PhD student at Mila, where I study deep learning under the supervision of <a href="https://yoshuabengio.org/">Yoshua Bengio</a>. I am grateful to be supported by a <a href="https://bourses.umontreal.ca/repertoire-des-bourses/detail-dune-bourse/bid/1812/bsl/Bourses-en-intelligence-artificielle-des-%C3%89tudes-sup%C3%A9rieures-et-postdoctorales-ESP-2022-2023/">Université de Montréal Graduate AI Fellowship</a>.</p>
 
 <p>Before that, I was an AI researcher at Microsoft working on the large-scale deployment of GPT-3, principled approaches to large model training, and theories of infinitely wide neural networks. I'm broadly interested in machine learning and natural language processing.</p>
 
