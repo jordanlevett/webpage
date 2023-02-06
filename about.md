@@ -6,7 +6,7 @@ layout: page
 
 <p>I started in Jan 2022 as a PhD student at Mila, where I study deep learning under the supervision of <a href="https://yoshuabengio.org/">Yoshua Bengio</a>.</p>
 
-<p>Before that, I was an AI researcher at Microsoft working on the large-scale deployment of GPT-3, principled approaches to the training of large deep learning model, and theories of infinitely wide neural networks. I'm broadly interested in machine learning and natural language processing.</p>
+<p>Before that, I was an AI researcher at Microsoft working on the large-scale deployment of GPT-3, principled approaches to large model training, and theories of infinitely wide neural networks. I'm broadly interested in machine learning and natural language processing.</p>
 
 <p>I spent a year as an <a href="https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/">AI resident</a> at Microsoft Research, after graduating with a BSc in Computer Science and Cognitive Science from Johns Hopkins University. While at JHU, I worked for the <a href="https://www.clsp.jhu.edu/">Center for Language and Speech Processing</a> and was advised by <a href="https://www.cs.jhu.edu/~vandurme/">Ben Van Durme</a>.</p>
 
@@ -15,11 +15,11 @@ layout: page
 <ul class="publications">
 	Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer<br>
 	<i>NeurIPS 2021</i><br>
-	[<a href="https://arxiv.org/abs/2203.03466">Paper</a> | <a href="https://www.microsoft.com/en-us/research/blog/%c2%b5transfer-a-technique-for-hyperparameter-tuning-of-enormous-neural-networks/">Blog</a> | <a href="https://github.com/microsoft/mup">Code</a> | <a href="https://www.theregister.com/2022/03/14/microsoft_openai_mutransfer/">TheRegister</a> | <a href="https://medium.com/syncedreview/microsoft-openais-%C2%B5transfer-zero-shot-hyperparameter-transfer-method-tunes-gpt-3-s-3c820a75bcad">SyncedReview</a>]<br>
+	[<a href="https://arxiv.org/abs/2203.03466">Paper</a> | <a href="https://www.microsoft.com/en-us/research/blog/%c2%b5transfer-a-technique-for-hyperparameter-tuning-of-enormous-neural-networks/">Blog</a> | <a href="https://github.com/microsoft/mup">Code</a> | <a href="https://www.theregister.com/2022/03/14/microsoft_openai_mutransfer/">TheRegister</a> | <a href="https://medium.com/syncedreview/microsoft-openais-%C2%B5transfer-zero-shot-hyperparameter-transfer-method-tunes-gpt-3-s-3c820a75bcad">SyncedReview</a> | <a href="https://analyticsindiamag.com/interview-with-the-team-behind-microsofts-%C2%B5transfer/">AIM</a>]<br>
 	<br>
 	LoRA: Low-Rank Adaptation of Large Language Models<br>
 	<i>ICLR 2022</i><br>
-	[<a href="https://arxiv.org/abs/2106.09685">Paper</a> | <a href="https://github.com/microsoft/LoRA">Code</a>]<br>
+	[<a href="https://arxiv.org/abs/2106.09685">Paper</a> | <a href="https://github.com/microsoft/LoRA">Code</a> | Mentioned in <a href="https://blogs.microsoft.com/ai-for-business/ai-at-scale-technology/">"The innovation behind AI at Scale"</a>]<br>
 	<br>
 	GFlowNet Foundations<br>
 	<i>Pre-print</i><br>
