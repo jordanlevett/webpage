@@ -19,7 +19,7 @@ layout: page
 	<br>
 	LoRA: Low-Rank Adaptation of Large Language Models<br>
 	<i>ICLR 2022</i><br>
-	[<a href="https://arxiv.org/abs/2106.09685">Paper</a> | <a href="https://github.com/microsoft/LoRA">Code</a> | Mentioned in <a href="https://blogs.microsoft.com/ai-for-business/ai-at-scale-technology/">"The innovation behind AI at Scale"</a>]<br>
+	[<a href="https://arxiv.org/abs/2106.09685">Paper</a> | <a href="https://github.com/microsoft/LoRA">Code</a> | Mentioned in <a href="https://blogs.microsoft.com/ai-for-business/ai-at-scale-technology/#:~:text=We%20also%20developed,or%20downstream%20task.">"The innovation behind AI at Scale"</a>]<br>
 	<br>
 	GFlowNet Foundations<br>
 	<i>Pre-print</i><br>
