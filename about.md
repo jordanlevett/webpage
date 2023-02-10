@@ -4,11 +4,11 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture_hd }}{% else %}{{ site.url }}/{{ site.picture_hd }}{% endif %})
 
-<p>I started in Jan 2022 as a PhD student at Mila, where I study deep learning under the supervision of <a href="https://yoshuabengio.org/">Yoshua Bengio</a>. I am grateful to be supported by a <a href="https://bourses.umontreal.ca/repertoire-des-bourses/detail-dune-bourse/bid/1812/bsl/Bourses-en-intelligence-artificielle-des-%C3%89tudes-sup%C3%A9rieures-et-postdoctorales-ESP-2022-2023/">Université de Montréal Graduate AI Fellowship</a>.</p>
+<p>I am pursuing my Ph.D. at Mila supervised by <a href="https://yoshuabengio.org/">Yoshua Bengio</a>. My research on robust reasoning is generously supported by a <a href="https://bourses.umontreal.ca/repertoire-des-bourses/detail-dune-bourse/bid/1812/bsl/Bourses-en-intelligence-artificielle-des-%C3%89tudes-sup%C3%A9rieures-et-postdoctorales-ESP-2022-2023/">Université de Montréal Graduate AI Fellowship</a>.</p>
 
-<p>Before that, I was an AI researcher at Microsoft working on the large-scale deployment of GPT-3, principled approaches to large model training, and theories of infinitely wide neural networks. I'm broadly interested in machine learning and natural language processing.</p>
+<p>Before that, I was a researcher at Microsoft working on the large-scale deployment of GPT-3, principled approaches to large model training, and theories of infinitely wide neural networks.</p>
 
-<p>I spent a year as an <a href="https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/">AI resident</a> at Microsoft Research, after graduating with a BSc in Computer Science and Cognitive Science from Johns Hopkins University. While at JHU, I worked for the <a href="https://www.clsp.jhu.edu/">Center for Language and Speech Processing</a> and was advised by <a href="https://www.cs.jhu.edu/~vandurme/">Ben Van Durme</a>.</p>
+<p>I spent a wonderful year as an <a href="https://www.microsoft.com/en-us/research/academic-program/microsoft-ai-residency-program/">AI resident</a> at Microsoft Research Redmond, where I worked closely with <a href="https://www.microsoft.com/en-us/research/people/gregyang/">Greg Yang</a>. I obtained my bachelor's degree in Computer Science and Cognitive Science from Johns Hopkins University, where I was advised by <a href="https://www.cs.jhu.edu/~vandurme/">Ben Van Durme</a>.</p>
 
 <h2>Some Publications</h2>
 
@@ -22,7 +22,7 @@ layout: page
 	[<a href="https://arxiv.org/abs/2106.09685">Paper</a> | <a href="https://github.com/microsoft/LoRA">Code</a> | Mentioned in <a href="https://blogs.microsoft.com/ai-for-business/ai-at-scale-technology/#:~:text=We%20also%20developed,or%20downstream%20task.">"The innovation behind AI at Scale"</a>]<br>
 	<br>
 	GFlowNet Foundations<br>
-	<i>Pre-print</i><br>
+	<i>JMLR 2023</i><br>
 	[<a href="https://arxiv.org/abs/2111.09266">Paper</a>]<br>
 	<br>
 	Feature Learning in Infinite-Width Neural Networks<br>
