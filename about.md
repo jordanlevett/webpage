@@ -12,7 +12,7 @@ Medical device development; Surgical navigation; Clinical outcomes; Electronic H
 
 <ul class="publications">
 	<br>
-	LoRA: Low-Rank Adaptation of Large Language Models<br>
-	<i>ICLR 2022</i><br>
-	[<a href="https://arxiv.org/abs/2106.09685">Paper</a> | <a href="https://github.com/microsoft/LoRA">Code</a> | Mentioned in <a href="https://blogs.microsoft.com/ai-for-business/ai-at-scale-technology/#:~:text=We%20also%20developed,or%20downstream%20task.">"The innovation behind AI at Scale"</a>]<br>
+	Osteosarcoma around a ceramic-on-ceramic total hip arthroplasty<br>
+	<i>January 2023</i><br>
+	[<a href="https://www.arthroplastytoday.org/article/S2352-3441(22)00272-2/fulltext">Paper</a>]<br>
 </ul>
