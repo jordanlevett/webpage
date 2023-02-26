@@ -16,10 +16,8 @@ layout: page
 	Osteosarcoma around a ceramic-on-ceramic total hip arthroplasty<br>
 	<i>January 2023</i><br>
 	[<a href="https://www.arthroplastytoday.org/article/S2352-3441(22)00272-2/fulltext">Paper</a>]<br>
-	
 	<br>
-	GFlowNet Foundations<br>
-	<i>JMLR 2023</i><br>
-	[<a href="https://arxiv.org/abs/2111.09266">Paper</a>]<br>
-	<br>
+	MediGraph: A Novel Clinical Assistant from Automated Biomedical Literature Extraction and knowledge Graphs
+	<i>January 2021</i><br>
+	[<a href="https://drive.google.com/file/d/1u75-frLjCBGUa6F8sdIrl-au-MSmGDnX/view?usp=sharing">Paper</a> | <a href="https://www.societyforscience.org/press-release/2021-regeneron-isef-grand-awards/">Media</a> ]<br>
 </ul>
