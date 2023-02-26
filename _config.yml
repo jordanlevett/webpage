@@ -15,7 +15,7 @@ picture_hd: assets/images/profile_793.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/Edward_CV.pdf
+resume-url: assets/CV_JordanLevett.pdf
 
 url: https://jordanlevett.github.io/webpage
 # your url: https://USERNAME.github.io
@@ -43,7 +43,7 @@ linkedin: jordanlevett
 # youtube: myyoutube
 # spotify: myspotify
 github: jordanlevett
-gscholar: 2eADy_8AAAAJ
+gscholar: vz_MSNQAAAAJ
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
