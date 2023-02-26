@@ -1,9 +1,9 @@
 # main text of home
-name: Edward Hu
-bio: Deep Learning PhD Student at Mila advised by Yoshua Bengio
+name: Jordan J Levett
+bio: Medical student
 
 # twitter summary info
-description: Edward Hu is working on artificial intelligence
+description: Jordan is working on AI & surgery
 
 # if it's an external image, update below for true
 # better with square images
@@ -17,7 +17,7 @@ resume: true
 resume-external: false
 resume-url: assets/Edward_CV.pdf
 
-url: https://edwardjhu.com/
+url: https://jordanlevett.github.io/webpage
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -36,13 +36,13 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: edwardjhu
+twitter: jordanlevett19
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: edwardjhu
+linkedin: jordanlevett
 # youtube: myyoutube
 # spotify: myspotify
-github: edwardjhu
+github: jordanlevett
 gscholar: 2eADy_8AAAAJ
 # gitlab: mygitlab
 # lastfm: mylastfm
@@ -52,15 +52,15 @@ gscholar: 2eADy_8AAAAJ
 #medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-#email: myemail@gmail.com
+email: jordanlevett@gmail.com
 
 authors:
   johndoe:
-    name: Edward Hu
-    bio: PhD Student at Mila
+    name: Jordan J Levett
+    bio: Canadian medical student
     external-image: false
     picture: assets/images/profile_422.jpg
-    twitter: edwardjhu
+    twitter: JordanLevett19
   #jamesfoster:
   #  name: James Foster
   #  bio: A Man who develops software with coffee
