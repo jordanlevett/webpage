@@ -9,7 +9,7 @@ description: Jordan is working on AI & surgery
 # better with square images
 external-image: false
 picture: assets/images/profile.jpg
-picture_hd: assets/images/profile.jpg
+picture_hd: assets/images/picture.JPG
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
