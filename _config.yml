@@ -8,8 +8,8 @@ description: Jordan is working on AI & surgery
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile_422.jpg
-picture_hd: assets/images/profile_793.jpg
+picture: assets/images/profile.jpg
+picture_hd: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -59,7 +59,7 @@ authors:
     name: Jordan J Levett
     bio: Canadian medical student
     external-image: false
-    picture: assets/images/profile_422.jpg
+    picture: assets/images/profile.jpg
     twitter: JordanLevett19
   #jamesfoster:
   #  name: James Foster
