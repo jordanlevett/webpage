@@ -9,10 +9,16 @@ layout: page
 <p><b>Methodological:</b> Systematic review, Meta-analysis, Retrospective and prospective clinical studies, Machine learning (computer vision and natural language processing)</p>
 <p><b>Applications:</b> Orthopedic surgery; Neural interfaces; Medical device development; Surgical navigation; Clinical outcomes; Electronic Health Records Let's chat!</p>
 
+<h2><b>My journey</b></h2>
+<p> <b>2014-2019:</b> Herzliah High School (Montreal, Qc)<br>
+	<b>2019-2021:</b> Vanier College, Health Science (Montreal, Qc)<br> 
+	<b>2021-2026:</b> University of Montreal, MD Candidate (Montreal, Qc)<br></p>
+	
 <h2><b>Skills</b></h2>
 <li> Programming: Python, HTML, CSS, Javascript, Tensorflow
 <li> Machine learning interests: computer vision & natural language processing
 <li> Sports: tennis, hockey, ski
+
 
 <h2><b>Some projects</b></h2>
 
