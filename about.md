@@ -17,7 +17,7 @@ layout: page
 <h2><b>Skills</b></h2>
 <li> Programming: Python, HTML, CSS, Javascript, Tensorflow
 <li> Machine learning interests: computer vision & natural language processing
-<li> Sports: tennis, hockey, ski
+<li> Sports: tennis 🎾, hockey 🏒, ski ⛷️
 
 
 <h2><b>Some projects</b></h2>
