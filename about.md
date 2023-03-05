@@ -22,7 +22,11 @@ layout: page
 	<i>January 2023</i><br>
 	[<a href="https://www.arthroplastytoday.org/article/S2352-3441(22)00272-2/fulltext">Paper</a>]<br>
 	<br>
-	MediGraph: A Novel Clinical Assistant from Automated Biomedical Literature Extraction and knowledge Graphs
+	MediGraph: A Novel Clinical Assistant from Automated Biomedical Literature Extraction and Knowledge Graphs<br>
 	<i>January 2021</i><br>
 	[<a href="https://drive.google.com/file/d/1u75-frLjCBGUa6F8sdIrl-au-MSmGDnX/view?usp=sharing">Paper</a> | <a href="https://www.societyforscience.org/press-release/2021-regeneron-isef-grand-awards/">Media</a>]<br>
+	<br>
+	Regulation of Rev7 on Survival and Chemoresistance in Multiple Myeloma<br>
+	<i>June 2019</i><br>
+	[<a href="https://www.vaniercollege.qc.ca/science/files/2021/02/Regulation-of-Rev7-on-Survival-and-Chemoresistance-in-Multiple-Myeloma.pdf">Paper</a>]<br>
 </ul>
