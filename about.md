@@ -26,7 +26,7 @@ layout: page
 	<br>
 	Invasive Brain Computer Interface for Motor Restoration in Spinal Cord Injury<br>
 	<i>November 2023</i><br>
-	[<a href="[https://www.neuromodulationjournal.org/article/S1094-7159(23)00754-7/abstract]">Paper</a>]<br>
+		[<a href="https://www.vaniercollege.qc.ca/science/files/2021/02/Regulation-of-Rev7-on-Survival-and-Chemoresistance-in-Multiple-Myeloma.pdf">Paper</a>]<br>
 	<br>
 	MediGraph: A Novel Clinical Assistant from Automated Biomedical Literature Extraction and Knowledge Graphs<br>
 	<i>January 2021</i><br>
