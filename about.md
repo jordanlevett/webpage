@@ -25,8 +25,8 @@ layout: page
 <ul class="publications">
 	<br>
 	Invasive Brain Computer Interface for Motor Restoration in Spinal Cord Injury<br>
-	<i>January 2023</i><br>
-	[<a href="[https://www.arthroplastytoday.org/article/S2352-3441(22)00272-2/fulltext](https://www.neuromodulationjournal.org/article/S1094-7159(23)00754-7/abstract)">Paper</a>]<br>
+	<i>November 2023</i><br>
+	[<a href="[https://www.neuromodulationjournal.org/article/S1094-7159(23)00754-7/abstract]">Paper</a>]<br>
 	<br>
 	MediGraph: A Novel Clinical Assistant from Automated Biomedical Literature Extraction and Knowledge Graphs<br>
 	<i>January 2021</i><br>
